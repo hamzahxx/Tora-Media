@@ -1,7 +1,7 @@
 function Navbar() {
   return (
-    <div className="bg-background py-4 px-10 flex justify-between items-center">
-      <h1 className="text-4xl px-10 py-1 text-text font-extrabold">Tora</h1>
+    <div className="bg-background h-[12vh] px-10 flex justify-between items-center">
+      <h1 className="text-4xl pl-10 pr-16 text-text font-extrabold">Tora</h1>
       <ul className="hidden md:flex py-2 rounded-xl text-text">
         <a href="/" className="px-3 mx-3 duration-150 hover:font-extrabold">
           Home
