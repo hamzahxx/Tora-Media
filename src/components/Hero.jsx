@@ -2,7 +2,7 @@ import marketing from "../assets/Marketing-bro.svg";
 
 function Hero() {
   return (
-    <div className="bg-background flex flex-col-reverse lg:flex-row justify-center items-center h-[100%] lg:h-[88vh] py-4 px-10 pt-10 lg:pt-0">
+    <div className="flex flex-col-reverse lg:flex-row justify-center items-center lg:h-[88vh] px-10 pt-14 lg:pt-0">
       <div className="px-10 pt-3 lg:pt-10">
         <div>
           <h1 className="text-5xl lg:text-7xl text-center lg:text-left">
