@@ -45,13 +45,13 @@ function Navbar() {
         <a href="/" className="px-3 mx-3">
           <span className="duration-150 hover:font-extrabold">Home</span>
         </a>
-        <a href="/" className="px-3 mx-3 hover:font-extrabold">
+        <a href="/" className="px-3 mx-3">
           <span className="duration-150 hover:font-extrabold">About</span>
         </a>
-        <a href="/" className="px-3 mx-3 hover:font-extrabold">
+        <a href="/" className="px-3 mx-3">
           <span className="duration-150 hover:font-extrabold">Service</span>
         </a>
-        <a href="/" className="px-3 mx-3 hover:font-extrabold">
+        <a href="/" className="px-3 mx-3">
           <span className="duration-150 hover:font-extrabold">Team</span>
         </a>
       </ul>
