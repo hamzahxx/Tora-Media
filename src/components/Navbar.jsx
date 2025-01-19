@@ -33,14 +33,16 @@ function Navbar() {
         navbarAnimation("#contact-btn");
       });
     },
-    { scope: container },
+    { scope: container }
   );
   return (
     <div
       ref={container}
       className="h-[12vh] px-10 flex justify-between items-center"
     >
-      <h1 className="text-4xl pl-10 pr-16 text-text font-extrabold">Tora</h1>
+      <h1 className="text-4xl px-4 lg:pl-10 lg:pr-16 text-text font-extrabold">
+        Tora
+      </h1>
       <ul className="hidden md:flex py-2 rounded-xl text-text">
         <a href="/" className="px-3 mx-3">
           <span className="duration-150 hover:font-extrabold">Home</span>
